@@ -1,4 +1,3 @@
-
 {
   "ads": {
     "id_app": "",
@@ -13,7 +12,8 @@
     "id": "com.autoclicker.free.automatictap.autoclicker",
     "is_exists": true,
     "is_show_more": false,
-    "is_show_ads": false
+    "is_show_ads": false,
+    "is_show_load": true
   },
   "apps": [
     {
