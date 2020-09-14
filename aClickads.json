@@ -1,6 +1,7 @@
 {
   "ads": {
     "id_app": "",
+    "flury_id":"flury_id",
     "banner_setting": "ca-app-pub-3399710561924220/2471747992",
     "inter_setting": "ca-app-pub-3399710561924220/9214633203",
     "banner_main": "ca-app-pub-3399710561924220/6957787911",
@@ -13,14 +14,118 @@
     "is_exists": true,
     "is_show_more": false,
     "is_show_ads": false,
-    "is_show_load": true
+    "is_show_load": true,
+    "isLoading":true,
+    "isShowAds":false
   },
   "apps": [
     {
-      "id": "com.king.candycrushsaga",
-      "icon": "https://lh3.googleusercontent.com/nH7Fy5zzUuU5ZXNbmCNL1ExKEpObT17IIsvYBYLoGjtUKpsf_tTfX9C8fCmauQ9oQ65Y=s180-rw",
-      "name": "Call of Duty: Mobile VN",
-      "des": "Là tựa game xuất sắc giành được các danh hiệu cao nhất của Google Play Awards 2019:"
+      "id": "com.new.siren.head.photo.editor.linh",
+      "icon": "https://lh3.googleusercontent.com/M9-JN7mrP8gNPdYBLp0BE4x5DEwoiU8WSRuAsZguddFGWkow-r5LSK7ghOGhXZUsNg=s360",
+      "name": "Siren Head Camera Photo Editor",
+      "des": "Hello siren head camera effects fans. Siren head photo editor is our new free app that provides creepy siren head effects for your photos.",
+      "s1":"https://lh3.googleusercontent.com/sgqEXvq5E3nNo5yW_fl1Dd28BKURQQ092BN7lFEIwkiNZUkM5jT04BrESE67yIv_cQ=w1440-h620-rw",
+      "s2":"https://lh3.googleusercontent.com/WwuAY9C1UrY7b8MDv1GdElB1cSj8LzLlOOcVANmRwG2dsq5r2Yo7YiFcDnzOZJon1pQ=w1440-h620-rw",
+      "s3":"https://lh3.googleusercontent.com/VxEKVZFJBP7sJNxsAsCaBqHGKssL29o907PkSEBhvhc-2wiv4hLQX8_FK08wI5NiesQ=w1440-h620-rw"
+    },
+    {
+      "id": "com.sirensounds.voicesapp.sirenshead",
+      "icon": "https://lh3.googleusercontent.com/3cnaVOPqqrfl1o7nIFaUZyfDZ0nZxblk5PMgwVBESesKXuoRNg4O2mtk8uDDTOA1Sg=s360",
+      "name": "Siren Head Sound Buttons",
+      "des": "Welcome to this cool and interesting siren head Sound button 3 free different siren head sound Buttons",
+      "s1":"https://lh3.googleusercontent.com/sgqEXvq5E3nNo5yW_fl1Dd28BKURQQ092BN7lFEIwkiNZUkM5jT04BrESE67yIv_cQ=w1440-h620-rw",
+      "s2":"https://lh3.googleusercontent.com/WwuAY9C1UrY7b8MDv1GdElB1cSj8LzLlOOcVANmRwG2dsq5r2Yo7YiFcDnzOZJon1pQ=w1440-h620-rw",
+      "s3":"https://lh3.googleusercontent.com/VxEKVZFJBP7sJNxsAsCaBqHGKssL29o907PkSEBhvhc-2wiv4hLQX8_FK08wI5NiesQ=w1440-h620-rw"
+    },
+    {
+      "id": "com.videocall.bts.btsmessenger.btscall.callbts.btsidol.linh",
+      "icon": "https://lh3.googleusercontent.com/ITgVFxU9bg_p31VMjKaxB88TAVrNfxTe5FoNGaJ9IjRIiXTdOtPKdH2dxtZW-RUnS6GJ=s360-rw",
+      "name": "BTS Video Call & Chat Simulator Prank",
+      "des": "Bts Fake Call - Bts video call is an application that helps you get a call right away from Jungkook, Hope,V, Suga ... talking to Bts",
+      "s1":"https://lh3.googleusercontent.com/sgqEXvq5E3nNo5yW_fl1Dd28BKURQQ092BN7lFEIwkiNZUkM5jT04BrESE67yIv_cQ=w1440-h620-rw",
+      "s2":"https://lh3.googleusercontent.com/WwuAY9C1UrY7b8MDv1GdElB1cSj8LzLlOOcVANmRwG2dsq5r2Yo7YiFcDnzOZJon1pQ=w1440-h620-rw",
+      "s3":"https://lh3.googleusercontent.com/VxEKVZFJBP7sJNxsAsCaBqHGKssL29o907PkSEBhvhc-2wiv4hLQX8_FK08wI5NiesQ=w1440-h620-rw"
+    },
+    {
+      "id": "com.auto.automatictap.autoclicker",
+      "icon": "https://lh3.googleusercontent.com/AwXea_Zxf5zOB6BRWjSnXwbdfMbGF22FlBH-22EiYToNZsfGtuWrx-xj35I2aDdqc5k=s360-rw",
+      "name": "Auto Clicker - Automatic tap FREE",
+      "des": "Auto Clicker helps you do repeated taps at any location with any interval you specify. Auto Clicker does NOT require root access.",
+      "s1":"https://lh3.googleusercontent.com/sgqEXvq5E3nNo5yW_fl1Dd28BKURQQ092BN7lFEIwkiNZUkM5jT04BrESE67yIv_cQ=w1440-h620-rw",
+      "s2":"https://lh3.googleusercontent.com/WwuAY9C1UrY7b8MDv1GdElB1cSj8LzLlOOcVANmRwG2dsq5r2Yo7YiFcDnzOZJon1pQ=w1440-h620-rw",
+      "s3":"https://lh3.googleusercontent.com/VxEKVZFJBP7sJNxsAsCaBqHGKssL29o907PkSEBhvhc-2wiv4hLQX8_FK08wI5NiesQ=w1440-h620-rw"
+    },
+    {
+      "id": "document.scanner.scan.viewer.pdf.reader.image.text",
+      "icon": "https://lh3.googleusercontent.com/1u2fR8VUoGWgLed-QEEhaFViUS9_aVowugcIIELmsJQvJ_JakQLqIVs92m0iqp6LUUY=s360-rw",
+      "name": "Document Scanner - Free Scan PDF & Image to Text",
+      "des": "Document Scanner app is the best for scanning documents in high-quality PDF format and PNG output.",
+      "s1":"https://lh3.googleusercontent.com/sgqEXvq5E3nNo5yW_fl1Dd28BKURQQ092BN7lFEIwkiNZUkM5jT04BrESE67yIv_cQ=w1440-h620-rw",
+      "s2":"https://lh3.googleusercontent.com/WwuAY9C1UrY7b8MDv1GdElB1cSj8LzLlOOcVANmRwG2dsq5r2Yo7YiFcDnzOZJon1pQ=w1440-h620-rw",
+      "s3":"https://lh3.googleusercontent.com/VxEKVZFJBP7sJNxsAsCaBqHGKssL29o907PkSEBhvhc-2wiv4hLQX8_FK08wI5NiesQ=w1440-h620-rw"
+    },
+    {
+      "id": "com.videocall.scaryteacher.call.me.linh",
+      "icon": "https://lh3.googleusercontent.com/guXbbXzT7Hqu_nXmlIXaW-7KOc3fU8ubUAMN9lNC8zVVBxvyqAFD7yYXsViAjBp3TA=s360-rw",
+      "name": "Scary Techer Video Call - Call Scary Techer Prank",
+      "des": "Fake call Video From Scary Teacher Simulator Prank” app simulate fake incoming calls and fake incoming video calls, and fake conversation with the creepy character Scary Teacher 3d",
+      "s1":"https://lh3.googleusercontent.com/sgqEXvq5E3nNo5yW_fl1Dd28BKURQQ092BN7lFEIwkiNZUkM5jT04BrESE67yIv_cQ=w1440-h620-rw",
+      "s2":"https://lh3.googleusercontent.com/WwuAY9C1UrY7b8MDv1GdElB1cSj8LzLlOOcVANmRwG2dsq5r2Yo7YiFcDnzOZJon1pQ=w1440-h620-rw",
+      "s3":"https://lh3.googleusercontent.com/VxEKVZFJBP7sJNxsAsCaBqHGKssL29o907PkSEBhvhc-2wiv4hLQX8_FK08wI5NiesQ=w1440-h620-rw"
+    },
+    {
+      "id": "com.love.chat.bts.messenger.vi",
+      "icon": "https://lh3.googleusercontent.com/fCheymG0pep8ILn_q9l-e47nFYcz4F11v2OP5FGArbLoKXPSXOjIXG-trSWGu-Y4NqPc=s360-rw",
+      "name": "BTS Messenger Tiếng việt",
+      "des": "Nếu bạn là fan của BTS đừng bỏ qua ứng dụng này nhé. BTS Messenger Tiếng Việt nhé",
+      "s1":"https://lh3.googleusercontent.com/sgqEXvq5E3nNo5yW_fl1Dd28BKURQQ092BN7lFEIwkiNZUkM5jT04BrESE67yIv_cQ=w1440-h620-rw",
+      "s2":"https://lh3.googleusercontent.com/WwuAY9C1UrY7b8MDv1GdElB1cSj8LzLlOOcVANmRwG2dsq5r2Yo7YiFcDnzOZJon1pQ=w1440-h620-rw",
+      "s3":"https://lh3.googleusercontent.com/VxEKVZFJBP7sJNxsAsCaBqHGKssL29o907PkSEBhvhc-2wiv4hLQX8_FK08wI5NiesQ=w1440-h620-rw"
+    },
+    {
+      "id": "com.btsmusic.kpop.bts.army",
+      "icon": "https://lh3.googleusercontent.com/McrrcVjtZPklSJXASrPX_4GFjSbD1e7iEUNEorcRSawshaQxJAiQspBeNYlpb0-GUCc=s360-rw",
+      "name": "BTS Messenger - Chat with BTS 2020",
+      "des": "BTS texts & calls you~ YOU text & call BTS and even have some ✧ romance ✧ with your bias, and some ☆ drama ☆ between you, your bias, and your bias wrecker~",
+      "s1":"https://lh3.googleusercontent.com/sgqEXvq5E3nNo5yW_fl1Dd28BKURQQ092BN7lFEIwkiNZUkM5jT04BrESE67yIv_cQ=w1440-h620-rw",
+      "s2":"https://lh3.googleusercontent.com/WwuAY9C1UrY7b8MDv1GdElB1cSj8LzLlOOcVANmRwG2dsq5r2Yo7YiFcDnzOZJon1pQ=w1440-h620-rw",
+      "s3":"https://lh3.googleusercontent.com/VxEKVZFJBP7sJNxsAsCaBqHGKssL29o907PkSEBhvhc-2wiv4hLQX8_FK08wI5NiesQ=w1440-h620-rw"
+    },
+    {
+      "id": "com.lol.fakechat.fakechatconversations",
+      "icon": "https://lh3.googleusercontent.com/jXUqTTIwrs9Y0tZ3R63ZJsEBGmvGP5un2dE-ICpiKEmx8ACWXhnkRwoSAMNiqXQuBQ=s360-rw",
+      "name": "Fake Chat Conversations 2020",
+      "des": "A Maltiplay conversation messager Fake Conversations is an application used to create fake conversations.What's Fake Chat- an App for simulating chat conversations",
+      "s1":"https://lh3.googleusercontent.com/sgqEXvq5E3nNo5yW_fl1Dd28BKURQQ092BN7lFEIwkiNZUkM5jT04BrESE67yIv_cQ=w1440-h620-rw",
+      "s2":"https://lh3.googleusercontent.com/WwuAY9C1UrY7b8MDv1GdElB1cSj8LzLlOOcVANmRwG2dsq5r2Yo7YiFcDnzOZJon1pQ=w1440-h620-rw",
+      "s3":"https://lh3.googleusercontent.com/VxEKVZFJBP7sJNxsAsCaBqHGKssL29o907PkSEBhvhc-2wiv4hLQX8_FK08wI5NiesQ=w1440-h620-rw"
+    },
+    {
+      "id": "com.bts.btswall.free.btswallpaper",
+      "icon": "https://lh3.googleusercontent.com/kJ0GMbhlS08WbRbyUnVTZhe7yKBWgjA6mEplhjJ0GGtRSzqCSMIgNDqxiUIkXAnOqQ=s360-rw",
+      "name": "BTS Wallpaper - All Member",
+      "des": "This app is made for BTS lovers. Using this app you can customize your wallpaper using the latest pictures of BTS team or even BTS members.",
+      "s1":"https://lh3.googleusercontent.com/sgqEXvq5E3nNo5yW_fl1Dd28BKURQQ092BN7lFEIwkiNZUkM5jT04BrESE67yIv_cQ=w1440-h620-rw",
+      "s2":"https://lh3.googleusercontent.com/WwuAY9C1UrY7b8MDv1GdElB1cSj8LzLlOOcVANmRwG2dsq5r2Yo7YiFcDnzOZJon1pQ=w1440-h620-rw",
+      "s3":"https://lh3.googleusercontent.com/VxEKVZFJBP7sJNxsAsCaBqHGKssL29o907PkSEBhvhc-2wiv4hLQX8_FK08wI5NiesQ=w1440-h620-rw"
+    },
+    {
+      "id": "com.howtodraw.drawinglesson.gacha",
+      "icon": "https://lh3.googleusercontent.com/BseuMYfnXZbZ1i4o6_f4iJ7lDEx--RI5IAqg5sOdOcnvbEr6GCnc2k25Wo-MkyZ4i3k=s360-rw",
+      "name": "How to Draw Gacha Life",
+      "des": "How to draw Gacha Life is not a game! This app is created for fans, so you learn how to draw your favorite characters.",
+      "s1":"https://lh3.googleusercontent.com/sgqEXvq5E3nNo5yW_fl1Dd28BKURQQ092BN7lFEIwkiNZUkM5jT04BrESE67yIv_cQ=w1440-h620-rw",
+      "s2":"https://lh3.googleusercontent.com/WwuAY9C1UrY7b8MDv1GdElB1cSj8LzLlOOcVANmRwG2dsq5r2Yo7YiFcDnzOZJon1pQ=w1440-h620-rw",
+      "s3":"https://lh3.googleusercontent.com/VxEKVZFJBP7sJNxsAsCaBqHGKssL29o907PkSEBhvhc-2wiv4hLQX8_FK08wI5NiesQ=w1440-h620-rw"
+    },
+    {
+      "id": "com.music.tictok.free",
+      "icon": "https://lh3.googleusercontent.com/zlbsKqL23TpaPfyI01-FQCxUZlTVWKs4B6gPly4XQGQ3CpI4BjqwlCdHarRpH1rhAA=s360-rw",
+      "name": "Nghe Nhac Tik Tok",
+      "des": "Nhac tik tok hay 2020? Tai sao phai nghe? ??? Nghe de biet gioi tre dang nghe gi. Nhung Bai Hat Tik Tok Trung Quoc Sieu De Thuong Hay Nhat",
+      "s1":"https://lh3.googleusercontent.com/sgqEXvq5E3nNo5yW_fl1Dd28BKURQQ092BN7lFEIwkiNZUkM5jT04BrESE67yIv_cQ=w1440-h620-rw",
+      "s2":"https://lh3.googleusercontent.com/WwuAY9C1UrY7b8MDv1GdElB1cSj8LzLlOOcVANmRwG2dsq5r2Yo7YiFcDnzOZJon1pQ=w1440-h620-rw",
+      "s3":"https://lh3.googleusercontent.com/VxEKVZFJBP7sJNxsAsCaBqHGKssL29o907PkSEBhvhc-2wiv4hLQX8_FK08wI5NiesQ=w1440-h620-rw"
     }
   ]
 }
