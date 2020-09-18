@@ -14,7 +14,7 @@
     "is_exists": true,
     "is_show_more": false,
     "is_show_ads": true,
-    "is_show_load": true,
+    "is_show_load": false,
     "isLoading":false,
     "isShowAds":true
   },
